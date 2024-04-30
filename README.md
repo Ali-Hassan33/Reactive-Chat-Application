@@ -1,5 +1,5 @@
 ## About
-Build a reactive chat application using Project Reactor, Spring Boot, and Vaadin, enabling real-time messaging among users.
+Build a reactive chat application using Project Reactor, Spring Boot, and Vaadin, enabling real-time private messaging among users.
 
 ## Development Environment
 - Java 21
