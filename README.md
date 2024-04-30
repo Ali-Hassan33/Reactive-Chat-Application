@@ -1,4 +1,16 @@
-# Reactive Chat-App
+## About
+Build a reactive chat application using Project Reactor, Spring Boot, and Vaadin, enabling real-time messaging among users.
+
+## Development Environment
+- Java 21
+- Spring Boot 3.2.4
+- Vaadin 24.3.8
+- Project Reactor 3.6.4
+- Maven
+- PostgreSQL
+- Intellij Idea
+
+## GIFs
 
 ![create-account](https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/99cbc7ce-c468-4033-840d-a429b3f6ec9b)
 
