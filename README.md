@@ -12,14 +12,16 @@ Build a reactive chat application using Project Reactor, Spring Boot, and Vaadin
 
 ## GIFs
 
-![create-account](https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/99cbc7ce-c468-4033-840d-a429b3f6ec9b)
+<div class = "container">
+<img src = "https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/99cbc7ce-c468-4033-840d-a429b3f6ec9b" width = "49%"> | 
+<img src = "https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/7e567c6d-9cbd-4acf-86eb-c9c91617f9f5" width = "49%">
+</div>
 
-![Login](https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/7e567c6d-9cbd-4acf-86eb-c9c91617f9f5)
 
-![contacts](https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/8bc7f50e-a629-4cb5-ba87-9f3b335713c6)
-
-![chat](https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/db9495a6-de75-4b07-899b-f08e863d8b7c)
-
+<div class = "container">
+<img src = "https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/8bc7f50e-a629-4cb5-ba87-9f3b335713c6" width = "49%"> |
+<img src = "https://github.com/Ali-Hassan33/Vaadin_App/assets/101888551/db9495a6-de75-4b07-899b-f08e863d8b7c" width = "49%">
+</div>
 
 
   
