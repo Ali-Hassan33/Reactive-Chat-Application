@@ -1,1 +1,147 @@
 @import url('./main-layout.css');
+
+vaadin-vertical-layout {
+    padding: 0 3px 0 0;
+}
+
+.copy-right {
+    position: fixed;
+    bottom: 0;
+    font-size: 12px;
+}
+
+vaadin-login-form {
+    margin-top: 80px;
+}
+
+vaadin-login-form vaadin-button[theme~="submit"] {
+    --lumo-primary-color: green;
+}
+
+vaadin-login-form-wrapper {
+    opacity: 0.7;
+    border-radius: 20px;
+}
+
+
+vaadin-login-form-wrapper::part(form-title) {
+    text-align: center;
+}
+
+[theme~="dark"] {
+    --lumo-base-color: hsl(220, 15%, 15%);
+    --lumo-shade-5pct: rgba(54, 61, 73, 0.05);
+    --lumo-shade-10pct: rgba(54, 61, 73, 0.1);
+    --lumo-shade-20pct: rgba(54, 61, 73, 0.2);
+    --lumo-shade-30pct: rgba(54, 61, 73, 0.3);
+    --lumo-shade-40pct: rgba(54, 61, 73, 0.4);
+    --lumo-shade-50pct: rgba(54, 61, 73, 0.5);
+    --lumo-shade-60pct: rgba(54, 61, 73, 0.6);
+    --lumo-shade-70pct: rgba(54, 61, 73, 0.7);
+    --lumo-shade-80pct: rgba(54, 61, 73, 0.8);
+    --lumo-shade-90pct: rgba(54, 61, 73, 0.9);
+    --lumo-shade: hsl(220, 15%, 25%);
+}
+
+.search-field {
+    margin-right: 78px;
+}
+
+.title {
+    font-size: 32px;
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 12px;
+    color: #ffffff;
+    font-style: initial;
+}
+
+.title-bar {
+    background: seagreen;
+}
+
+vaadin-grid {
+    width: 90%;
+    height: 40%;
+    margin-bottom: 90px;
+    border: 0;
+    font-weight: bolder;
+}
+
+.app-icon {
+    height: 55px;
+    width: 55px;
+    padding-bottom: 8px;
+}
+
+.sign_out-button {
+    margin-left: 1240px;
+    border-radius: 8px;
+}
+
+vaadin-tabsheet {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.save-button {
+    margin-top: 25px;
+    margin-left: 44px;
+}
+
+.save-changes-button {
+    max-width: fit-content;
+    margin: 20px auto 0 auto;
+}
+
+.create-account-button {
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.contact-form {
+    margin-top: 40px;
+    height: 340px;
+    width: 250px;
+    padding-left: 55px;
+    border: 1px solid rgba(128, 128, 128, 0.10);
+    border-radius: 15px;
+    background-color: rgba(128, 128, 128, 0.10);
+}
+
+.account-form {
+    margin-top: 110px;
+    height: 452px;
+    width: 290px;
+    padding-left: 97px;
+    border: 1px solid rgba(128, 128, 128, 0.10);
+    border-radius: 15px;
+    background-color: rgba(128, 128, 128, 0.10);
+}
+
+vaadin-message-input {
+    margin-top: 30px;
+}
+
+vaadin-message-input > vaadin-text-area {
+    width: 700px;
+}
+
+vaadin-message-input > vaadin-button {
+    background-color: forestgreen;
+}
+
+vaadin-message-list {
+    margin-top: 50px;
+    width: 800px;
+    height: 520px;
+}
+
+.contact-user-icon {
+    padding-left: 75px;
+}
+
+.hr {
+    width: 190px;
+}
